@@ -1,0 +1,399 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap');
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url(/fonts/fonts.css);
+}
+div {
+    font-family: 'Neo Sans Pro';
+    font-weight: bold;
+  }
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif; 
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.navigation-container {
+    height: 70px;
+  }
+
+.nav-up {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #232323;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-wrap: nowrap;
+    text-decoration: none;
+}
+
+
+.first-line {
+    font-size: 14px;
+    color: #8D8D8D;
+    text-decoration: none;
+    margin-bottom: rem;
+}
+
+.second-line {
+color: #EAEAEA;
+text-decoration: none;
+
+}
+.afsfgsafsa{
+    background: #000000;
+    display: flex;
+    height: 3500px;
+}
+.mainimg{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+.mvprprp{
+    margin-left: 3rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+.mainlg{
+    display: flex;
+    background: #131313;
+    align-items: center;
+}
+.mbat{
+margin-left: 3rem;
+}
+
+.companyqws{
+    display: flex;
+}
+
+.col-icons {
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+}
+.navbar-nav{
+    display: flex;
+    gap: 3rem;
+}
+.first{
+      background: #131313;
+    display: flex;
+    flex-direction: column;
+}
+.reklama{
+    color: #EAEAEA;
+    text-decoration: none;
+}
+.voznikli{
+    text-decoration: none;
+    color: #EAEAEA;
+}
+.voznikli1{
+    color: yellow;
+}
+.bloktxt{
+    padding-top: 2rem;
+    margin-left: 6rem;
+}
+
+.navbar  {
+    background: #0D0D0D;
+}
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+ /* что это значит узнать */
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+/* 
+.company{
+    color: #000000;
+    font-size: 22px;
+    text-decoration: none;
+} */
+
+/* .lup{
+    color: #000000;
+    font-size: 38px;
+    text-decoration: none;
+} */
+
+/* .polubomy{
+    font-size: 16px;
+    text-decoration: none;
+    color: #b41f1f;
+}
+/* .reklam{
+margin-bottom: -12rem; 
+} */
+/* .baton{
+    margin-top: 1rem;
+}  */ 
+
+
+
+
+.mainblock{
+    margin-top: 0px;
+    height: 300px; 
+    background: #000000;
+}
+
+
+.imenno{
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    display: flex;
+    color: #EAEAEA;
+    font-size: 48px;
+    flex-direction: column;
+    background: #000000;
+    margin-left: 2rem;
+    margin-top: rem;
+}
+.imenno1{
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    display: flex;
+    color: #EAEAEA;
+    font-size: 48px;
+    flex-direction: row;
+    background: #000000;
+    justify-content: flex-end;
+    margin-top:0rem;
+}
+
+.pochemymi{
+    background: #000000;
+    width: 100%;
+}
+
+.lelev {
+    background: #232323;
+    border: 1px;
+    border-radius: 5px;
+    padding: 1rem;
+}
+.nemainblock{
+    background: #000000;
+}
+.obnas{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.obnasmain{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1rem;
+    row-gap: 1rem;
+    margin-top: 3rem;
+    justify-content: center;
+}
+
+.blockmain{
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    color: #EAEAEA;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    max-width: none;
+    flex-basis: 29%;
+}
+
+.mainyslugi{
+    height: 4500px;
+    background: #1F1F1F;
+}
+
+
+.nashi{
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    color: #EAEAEA;
+    background: #131313;
+    padding-left: 400px;
+
+}
+
+.mains{
+    display: flex;
+    background: #131313;
+    height: 700px;
+    padding-left: 16rem ;
+}
+
+
+.maklienti{
+position: absolute;
+font-family: 'Neo Sans Pro';
+font-style: normal;
+display: flex;
+align-items: center;
+color: #EAEAEA;
+font-size: 48px;
+background: #1F1F1F;
+}
+
+.card{
+    display: flex;
+    
+}
+
+.card-link{
+    text-decoration: none;
+}
+
+
+.theekarti{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: rem;
+    row-gap: 3rem;
+    margin-top: 6rem;
+    justify-content: center;
+}
+
+
+.card-body{
+    background-color: #232323 ;
+}
+.card-title{
+    color: #EAEAEA;
+}
+.card-text{
+    color: #EAEAEA;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+    justify-content: center;
+}
+
+
+
+.formavvoda{
+    height: 250px;
+    background: #000000;  
+
+}
+.formam{
+    align-items: flex-end;
+}
+.frm{   
+height: 208px;
+background: #232323;
+border-radius: 0px;
+margin-top: 0rem;
+}
+
+
+.txtform{
+    margin-right: 34rem;
+    font-size: 24px;
+}
+.formmavvoda{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+    margin-top: 5rem;
+    background: #232323;
+}
+
+.conteiner-bg{
+    background: #232323;
+}
+.button1 {
+    border: none;
+    outline: none;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    padding: 7px 65px;
+    border-radius: 5px;
+    background: #FFED00; 
+    text-decoration: none;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #1F1F1F;
+    margin-top: 1.98rem;
+}
+
+.contakt{
+    text-decoration: none;
+    color: #8D8D8D;
+}
+
+.zaddat{
+    size: 24px;
+    text-decoration: none;
+    color: #EAEAEA;
+}
+
+.osnova{
+    color: #EAEAEA;
+    align-items: center;
+}
+
+.povd{
+    width: 143%;
+    background: #000000;
+}
+
+.karta{
+    margin-top: 4rem;
+margin-left: 12rem;
+}
+.list-unstyled{
+    margin-left: 5rem;
+}
+.fomras{
+  background: #232323;  
+}
+
+.futrrr{
+    margin-top: 5rem;
+}
+.textonpcit{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+
